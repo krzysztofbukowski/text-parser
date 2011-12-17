@@ -18,8 +18,8 @@ require_once 'Zend/Debug.php';
 require_once 'Lexem.php';
 
 /**
- * @author kris
- * @package Parser
+ * @author krzysztof.bukowski
+ * @version 1.0
  *
  */
 class Parser {
