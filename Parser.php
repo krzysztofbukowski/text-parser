@@ -8,7 +8,7 @@
  * NUMBER	NUMBER	UNDEFINED 	SEPARATOR
  * SEPARATOR	NUMBER	UNDEFINED 	SEPARATOR
  *
- * @author kris
+ * @author Krzysztof Bukowski
  *
  */
 
